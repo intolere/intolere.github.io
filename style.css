@@ -3,6 +3,7 @@ html{
 	padding: 0;
 	width: 100%;
 	font-family: 'Raleway';
+	font-size: 4%;
 }
 body{ 
 margin: 0;
@@ -81,7 +82,7 @@ position: relative;
 	 	position: absolute;
 	 }
 	 h1{
-	 	font-size: 13pt;
+	 	font-size: 6%;
 	 	font-style: bold;
 	 }
 	 a{
@@ -112,7 +113,7 @@ position: relative;
 	 	margin-top: 1.5%;
 	 }
 	 ultratitle{
-	 	font-size: 20pt;
+	 	font-size: 10%;
 	 	font-style: bold;
 	 	color: white;
 	 	padding: 1%;
